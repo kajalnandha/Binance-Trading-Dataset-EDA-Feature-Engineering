@@ -1,6 +1,4 @@
-Here’s a well-structured and **rephrased README** for your GitHub repository:  
 
----
 
 # **Binance Trading Dataset – EDA & Feature Engineering**  
 
