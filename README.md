@@ -7,6 +7,8 @@ This project analyzes **90 days of historical trade data** from various Binance 
 - **Port_IDs** → Unique identifiers for trading accounts  
 - **Trade_History** → Details of past trades, including timestamps, assets, trade side (Buy/Sell), prices, and more  
 
+📂 **Dataset Link**: [Google Drive](https://drive.google.com/drive/folders/1ioZ56B5-zTmFuPrT7IihjOVozAgrXxhl)  
+
 ## **🎯 Objective**  
 The goal is to perform **exploratory data analysis (EDA)** and **feature engineering (FE)** to extract meaningful financial insights, clean the dataset, handle missing values, and rank trading accounts based on key performance metrics.  
 
@@ -30,3 +32,6 @@ The analysis includes:
 - **Findings & Assumptions** → Key observations based on the dataset  
 
 🚀 **This project provides valuable insights into trading performance, helping optimize strategies based on real data!**  
+
+
+
